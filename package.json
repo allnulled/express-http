@@ -1,5 +1,5 @@
 {
-  "name": "express-http",
+  "name": "express-http-code",
   "version": "1.0.0",
   "description": "Adds methods to Express responses for dispatching HTTP status.",
   "main": "src/expressHttp.js",

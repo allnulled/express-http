@@ -4,7 +4,7 @@ Adds methods to Express responses for dispatching HTTP status.
 
 ## Installation
 
-`$ npm i -s express-http`
+`$ npm i -s express-http-codes`
 
 ## Why?
 
@@ -63,7 +63,7 @@ The following HTTP statuses are already supported:
 ## Usage
 
 ```js
-const expressHttp = require("express-http");
+const expressHttp = require("express-http-codes");
 
 /////////////////////////////////////////////
 // In 1 step:
