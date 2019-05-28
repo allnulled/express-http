@@ -14,5 +14,17 @@
     "express": "^4.17.1",
     "mocha": "^6.1.4",
     "request": "^2.88.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allnulled/express-http.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allnulled/express-http/issues"
+  },
+  "homepage": "https://github.com/allnulled/express-http#readme"
 }
